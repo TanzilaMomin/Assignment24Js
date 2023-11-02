@@ -1,0 +1,16 @@
+.comp{
+    background-color:rgb(61, 149, 152);
+    color: white;
+    width: 300px;
+    height: 260px;
+    border: 4px solid brown;
+    border-radius: 25px 25px 25px;
+    box-shadow: 5px 5px 5px black;
+    margin: 20px;
+    padding-left: 30px;
+    }
+    #main{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 300px;
+    }
